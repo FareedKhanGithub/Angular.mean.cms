@@ -30,23 +30,17 @@ and are able to delete users or add new users to the database.
 
 #Example credential to sign in
                       
-First Name 
-sareed
+First Name = sareed
 
-Last Name 
-san
+Last Name = san
 
-Username 
-other
+Username = other
 
-Email 
-person@gmail.com
+Email = person@gmail.com
 
-Password 
-test
+Password = test
 
-Confirm Password
-test
+Confirm Password = test
 
 
 //the credentail does not accept duplicates. 
