@@ -29,7 +29,7 @@ and are able to delete users or add new users to the database.
 
 
 
-#CREDENTIAL EXAMPLE FOR SIGNING
+#CREDENTIAL EXAMPLE FOR SIGNING IN
                       
 	First Name = sareed
 
