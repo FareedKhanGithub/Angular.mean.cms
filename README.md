@@ -28,7 +28,7 @@ and are able to delete users or add new users to the database.
 
 
 
-#Example credential to sign in
+#CREDENTIAL EXAMPLE FOR SIGNING
                       
 First Name = sareed
 
