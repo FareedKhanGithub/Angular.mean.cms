@@ -19,10 +19,11 @@ and are able to delete users or add new users to the database.
 
 
 #HOW TO CONFIGURE
---ng build  it becomes this compressed file, you then pickup the compressed file from the ng-cms/dist/ng-cms
+	
+	--ng build  it becomes this compressed file, you then pickup the compressed file from the ng-cms/dist/ng-cms
  		(the build file will be compressed.)
 
---When you get the compressed file you paste it into the mean.example/public folder.
+	--When you get the compressed file you paste it into the mean.example/public folder.
 
 
 
@@ -30,23 +31,25 @@ and are able to delete users or add new users to the database.
 
 #CREDENTIAL EXAMPLE FOR SIGNING
                       
-First Name = sareed
+	First Name = sareed
 
-Last Name = san
+	Last Name = san
 
-Username = other
+	Username = other
 
-Email = person@gmail.com
+	Email = person@gmail.com
 
-Password = test
+	Password = test
 
-Confirm Password = test
+	Confirm Password = test
 
 
 //the credentail does not accept duplicates. 
 
 #DEBUGGING
+
 	--npm install
+	
 	--pgrep ng | xargs kill -9            
 		//kills the npm process incase of another process hanging in background  
 		
